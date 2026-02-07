@@ -37,6 +37,7 @@
   <br>
   <br>
   개인 레시피 상세보기
+  <br>
   <img width="631" height="595" alt="Image" src="https://github.com/user-attachments/assets/4aa28740-ba2b-4dbc-b478-4f1b22a95fe0" />
   <br>
   <br>
@@ -61,6 +62,7 @@
   <br>
   <br>
   리뷰 수정
+  <br>
   <img width="590" height="450" alt="Image" src="https://github.com/user-attachments/assets/ac253431-f071-4442-96a6-bcb2e800752d" />
   <br>
   <br>
@@ -100,6 +102,7 @@
   <br>
   <br>
   재료 삭제
+  <br>
   <img width="614" height="590" alt="Image" src="https://github.com/user-attachments/assets/6896d031-992d-4468-b0dd-8020e5494d2b" />
   <br>
   <br>
